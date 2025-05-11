@@ -1,7 +1,5 @@
-# [fedidb.org](https://fedidb.org) issues/bug tracker
+# We have moved to [fedidb/fedidb-nuxt](https://github.com/fedidb/fedidb-nuxt)
 
-⚠️ Review our [community guidelines](CODE_OF_CONDUCT.md) before participating 
-    
-👀 Follow us on Mastodon [https://mastodon.social/@fedidb](https://mastodon.social/@fedidb)
-    
-💬 Discuss in the [fediDB discord channel](https://discord.gg/JcsXPkZjNd)
+## Please send any bug reports to the fedidb-nuxt repo, this repo will be archived soon.
+
+~~# [fedidb.org](https://fedidb.org) issues/bug tracker~~
